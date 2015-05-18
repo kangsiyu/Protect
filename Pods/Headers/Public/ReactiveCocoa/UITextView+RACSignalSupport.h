@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/UITextView+RACSignalSupport.h
+../../../ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.h

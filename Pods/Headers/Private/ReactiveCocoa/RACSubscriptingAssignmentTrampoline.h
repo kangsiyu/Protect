@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h
+../../../ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h

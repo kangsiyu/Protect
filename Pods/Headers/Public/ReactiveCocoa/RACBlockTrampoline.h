@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACBlockTrampoline.h
+../../../ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.h

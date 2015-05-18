@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/ReactiveCocoa.h
+../../../ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h

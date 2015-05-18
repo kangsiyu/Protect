@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACKVOTrampoline.h
+../../../ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.h

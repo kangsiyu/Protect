@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/NSObject+RACPropertySubscribing.h
+../../../ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.h

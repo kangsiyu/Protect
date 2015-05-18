@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACTuple.h
+../../../ReactiveCocoa/ReactiveCocoa/RACTuple.h

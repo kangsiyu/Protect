@@ -1,1 +1,1 @@
-../../../ReactiveCocoa/ReactiveCocoaFramework/ReactiveCocoa/RACCompoundDisposable.h
+../../../ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.h
